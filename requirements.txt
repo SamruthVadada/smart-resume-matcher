@@ -1,3 +1,4 @@
+# Force rebuild to clear cache
 gradio==4.36.1
 PyMuPDF==1.26.3
 python-docx==1.2.0
